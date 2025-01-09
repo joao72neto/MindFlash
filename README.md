@@ -5,6 +5,7 @@ Tecnologias Previstas
  - GraphQL
  - Flutter ou React
  - Docker
+ - MongoDB
 
 # Design Inicial
 ![image](https://github.com/user-attachments/assets/6668ecea-764f-4d2b-bd02-81bd90e08ab2)
